@@ -8,6 +8,8 @@
 #                table creation, inserting records, and basic
 #                SQL operations for learning purposes.
 # ============================================================
+
+    
 CREATE database details;
 use details;
 CREATE TABLE employee (
