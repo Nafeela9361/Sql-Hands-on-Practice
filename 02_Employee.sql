@@ -1,3 +1,13 @@
+# ============================================================
+# Project      : Student Database
+# File         : 01_Students.sql
+#Author       : Nafeela Beer
+#Database     : MySQL
+# Description  : This file contains SQL queries for creating
+#                and managing a Student database. It includes
+#                table creation, inserting records, and basic
+#                SQL operations for learning purposes.
+# ============================================================
 CREATE database details;
 use details;
 CREATE TABLE employee (
