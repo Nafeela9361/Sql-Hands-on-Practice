@@ -1,3 +1,15 @@
+-- ============================================================
+-- Project      : Movie Database
+-- File         : 04_Movie_Database.sql
+-- Author       : Nafeela Beer
+-- Database     : MySQL
+-- Description  : This file contains SQL scripts for creating
+--                and managing a Movie database. It includes
+--                sample movie records and practice queries
+--                for data retrieval and manipulation.
+-- ============================================================
+
+
 CREATE DATABASE MOVIE_COLLEC;
 USE MOVIE_COLLEC;
 
