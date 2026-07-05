@@ -1,17 +1,18 @@
 # ============================================================
-# Project      : Student Database
-# File         : 01_Students.sql
-#Author       : Nafeela Beer
-#Database     : MySQL
-# Description  : This file contains SQL queries for creating
-#                and managing a Student database. It includes
-#                table creation, inserting records, and basic
-#                SQL operations for learning purposes.
+# Project      : Employee Database
+# File         : 02_Students.sql
+# Author       : Nafeela Beer
+# Database     : MySQL
+# Description  : This file demonstrates SQL operations on an
+#                Employee database, including table creation,
+#                data insertion, filtering, sorting, joins,
+#                and other query examples.
 # ============================================================
 
     
 CREATE database details;
 use details;
+
 CREATE TABLE employee (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(50),
