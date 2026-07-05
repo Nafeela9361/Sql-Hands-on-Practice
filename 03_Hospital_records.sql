@@ -1,3 +1,15 @@
+-- ============================================================
+-- Project      : Hospital Records Management
+-- File         : 03_Hospital_Records.sql
+-- Author       : Nafeela Beer
+-- Database     : MySQL
+-- Description  : This project simulates a hospital database.
+--                It includes patient records, doctor details,
+--                appointments, and SQL queries used for
+--                database management and analysis.
+-- ============================================================
+
+
 create database Hospital;
 use hospital;
 CREATE TABLE PatientRecords (
