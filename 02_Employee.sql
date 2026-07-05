@@ -1,13 +1,13 @@
-# ============================================================
-# Project      : Employee Database
-# File         : 02_Students.sql
-# Author       : Nafeela Beer
-# Database     : MySQL
-# Description  : This file demonstrates SQL operations on an
-#                Employee database, including table creation,
-#                data insertion, filtering, sorting, joins,
-#                and other query examples.
-# ============================================================
+-- ============================================================
+-- Project      : Employee Database
+-- File         : 02_Employee.sql
+-- Author       : Nafeela Beer
+-- Database     : MySQL
+-- Description  : This file demonstrates SQL operations on an
+--                Employee database, including table creation,
+--                data insertion, filtering, sorting, joins,
+--                and other query examples.
+-- ============================================================
 
     
 CREATE database details;
